@@ -61,7 +61,7 @@ def takeargs(mydict2,mydict):
                
 def studen_data(mydict):                
     data="""1.search
-            2.Edit
+            2.Edit																																
             3.Insert
             4.delete
             5.quit"""
